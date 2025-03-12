@@ -7,3 +7,6 @@ puces et cache pour les boutons de choix de langues
 ![EVOL_puces_preview](https://github.com/user-attachments/assets/1d5e9036-a712-40ff-adf6-fb03071d153f)
 
 ![PUCES_LANGUES_DINOS_preview](https://github.com/user-attachments/assets/f0fa07ed-1d29-4569-8abe-83089bca1f96)
+
+![sauvage_puces04_chiffresETlangues_preview](https://github.com/user-attachments/assets/a6460fef-f26d-44d2-9d5d-2b079f66b8db)
+
